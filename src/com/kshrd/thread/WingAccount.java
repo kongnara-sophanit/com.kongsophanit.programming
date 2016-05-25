@@ -1,6 +1,5 @@
 package com.kshrd.thread;
 /*
- * Hello This the Wing Account Testing with github in eclipse\
  * 
  * */
 public class WingAccount {
